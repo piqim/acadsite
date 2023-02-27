@@ -1,4 +1,3 @@
-# kycs
-Demo of KYCS Website
+# KYA
 
-For the manifesto of the coolition. If elected, this will be further modified and improved to be the official website.
+DEMO of the KY Academic Webpage
